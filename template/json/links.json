@@ -183,6 +183,19 @@
     },
     {
         "category": "其他资源",
-        "links": []
+        "links": [
+            {
+                "name": "caniuse",
+                "url": "http://caniuse.com/"
+            },
+            {
+                "name": "codrops",
+                "url": "http://tympanus.net/codrops/"
+            },
+            {
+                "name": "jsfiddle",
+                "url": "http://jsfiddle.net"
+            }
+            ]
     }
 ]
